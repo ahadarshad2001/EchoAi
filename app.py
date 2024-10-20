@@ -70,4 +70,4 @@ if st.button("Generate Content"):
         st.error("Please enter a prompt to generate content.")
 
 # Footer
-st.write("© 2024 Echo AI Content Generator | Powered by Groq Llama")
+st.write("Echo AI Content Generator | Powered by Groq Llama")
